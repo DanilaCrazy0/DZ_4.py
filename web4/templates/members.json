@@ -1,0 +1,34 @@
+{
+    "members": [
+        {
+            "title": "Ридди Скотт",
+            "content": "Главный инженер после Илона Маска, любит клоунские маски",
+            "image": "../static/img/member1.jpg"
+        },
+        {
+            "title": "Энди Уир",
+            "content": "Космический защитник, маляр",
+            "image": "../static/img/member2.jpg"
+        },
+        {
+            "title": "Марк Уотни",
+            "content": "Аниматор, производитель кабачковой икры",
+            "image": "../static/img/member3.jpg"
+        },
+      {
+            "title": "Венката Капур",
+            "content": "Сталевар, сварщик, фрезеровщик",
+            "image": "../static/img/member4.jpg"
+        },
+      {
+            "title": "Тедди Сандерс",
+            "content": "Полковник сандерс, мастер крылышек в панировке",
+            "image": "../static/img/member5.jpg"
+        },
+      {
+            "title": "Шон Бин",
+            "content": "Певец, диджей, ответственный за термоядерные двигатели",
+            "image": "../static/img/member6.jpg"
+        }
+    ]
+}
